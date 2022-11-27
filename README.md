@@ -1,4 +1,4 @@
-### <h1>Olá, Eu sou Gabriel! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" style="width: 30px; display:block;" data-target="animated-image.originalImage"></h1>
+### <h1>Olá, Eu sou Gabriel! 👋</h1>
 
 - Sou estudante de Programação, buscando migração de área.
 - Tenho conhecimento nas tecnologias HTML, CSS e GIT e estou estudando JavaScript!
