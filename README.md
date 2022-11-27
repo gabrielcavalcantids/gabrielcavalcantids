@@ -1,4 +1,4 @@
-### <h1>Olá, Eu sou Gabriel! 👋</h1>
+### Olá, Eu sou Gabriel! 👋
 
 - Sou estudante de Programação, buscando migração de área.
 - Tenho conhecimento nas tecnologias HTML, CSS e GIT e estou estudando JavaScript!
