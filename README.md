@@ -1,7 +1,7 @@
 ### Olá, Eu sou Gabriel! 👋
 
 - Sou estudante de Programação, buscando migração de área.
-- Tenho conhecimento nas tecnologias HTML, CSS e GIT e estou estudando JavaScript!
+- Tenho conhecimento nas tecnologias HTML, CSS e estou estudando JavaScript!
 
 <div display="flex" align="center">
   <a href="https://github.com/gabrielcavalcantids">
